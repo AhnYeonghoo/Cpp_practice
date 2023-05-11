@@ -78,6 +78,7 @@ int main() {
   Marine marine1(2, 3);
   Marine marine2(3, 5);
   
+  
   marine1.ShowStatus();
   marine2.ShowStatus();
   
